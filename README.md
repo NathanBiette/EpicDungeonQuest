@@ -25,11 +25,23 @@ There are 6 types of elves:
 the high-elves of the Empire
 the night elves of the Dark isle region. 
 
+Elves have a bonus of +8 in Dexterity and +4 in Magic but have a malus of -8 in Strength and Constitution.
+- if a xxxxxxx uses wind magic, they have a bonus of +12 instead of +4 in Magic.
+- if a xxxxxxx uses earth magic, they have a bonus of +12 instead of +4 in Magic.
+- if a xxxxxxx uses fire magic, they have a bonus of +12 instead of +4 in Magic.
+- if a xxxxxxx uses water magic, they have a bonus of +12 instead of +4 in Magic.
+- if a high-elf uses creation magic, they have a bonus of +12 instead of +4 in Magic.
+- Night elves have a bonus of +8 in Perception.
+
 * The dwarves
 Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic
 
+Dwarves have a bonus of +8 in Constitution and in Intelligence but have a malus of -16 in Magic.
+
 * The orcs
 The orcs are fearsome fighters which enjoy freedom before anything else. But the harsh conditions of the wild north where their tribes were push back force them to enrol as mercenaries and risk their lives for others.
+
+Orcs have a bonus of +8 in Strength and in Constitution but have a malus of -8 in Intelligence and Charisma.
 
 * The humans
 Humans can do quite anything, without ever showing any special talents for it. Fighters, merchants, mages, hunters, … the possibilities are countless.
