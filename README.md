@@ -129,11 +129,14 @@ Each time you succeed in using one of your abilities, add one to your ability co
 
 ## III. Skills
 
-Skills are special talents or gifts your character has. It gives him bonuses when performing specific actions. You can pick up any skills you want with the DM’s agreement.
-The bonus provided by the skill is the level of the skill 
+Skills are special talents or knowledge or gifts your character has. It gives him bonuses when performing specific actions. You can pick up any skills you want with the DM’s agreement.
+The bonus provided by the skill is the level of the skill. 
 
-For example:
-Player has the skill « water magic casting » with a level of 4 then he can add 4 as a bonus to its magic ability if he uses it to cast water magic.
+As a guideline, skills are usually:
+- a specific spell (ice spike, create a wood shield, cast a minor illusion)
+- the use of a piece of equipement (a weapon, a shield, an armor ...)
+- any skill from Donjon and Dragon (lockpicking, acrobatics, tracking ...)
+- a specific craft (weapons smithing, poison making, potion brewing ...)
 
 ### At level 1 :
 At the creation of your character you have a certain amount of skill points to spend on skills.
