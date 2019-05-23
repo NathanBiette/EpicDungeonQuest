@@ -23,15 +23,14 @@ Each role-playing adventure starts with the creation of a character. Epic Dungeo
 There are 6 types of elves:<br>
 4 elemental elves tribes: wind, earth, fire and water elves,<br>
 the high-elves of the Empire,<br>
-the night elves of the Dark isle region. <br>
+the night elves of Arclune island. <br>
 
-Elves have a bonus of +8 in Dexterity and +4 in Magic but have a malus of -8 in Strength and Constitution.<br>
-If a Elio uses wind magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a Sylve uses earth magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a Elfire uses fire magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a Hydrile or Ondin uses water magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a high-elf uses creation magic, they have a bonus of +12 instead of +4 in Magic.<br>
-Nightelves have a bonus of +8 in Perception.<br>
+If a Elio uses wind magic, they have a bonus of +8 in wind magic instead and +8 in Dexterity and -8 Strength and -8 Intelligence.<br>
+If a Sylve uses earth magic, they have a bonus of +8 in earth magic instead and +8 in Constitution and -8 Strength and -8 Intelligence.<br>
+If a Hydrile or Ondin uses water magic, they have a bonus of +8 in water magic and +8 in Perception and -8 Charisma and -8 Intelligence.<br>
+If a Yfrites uses fire magic, they have a bonus of +8 in fire magic and +8 in strength and -8 in Intelligence and -8 Perception<br>
+If a High-Elf/Elfire uses creation magic, they have a bonus of +8 in creation magic and +8 in Intelligence and -8 Perception and -8 in Dexterity<br>
+Nightelves have a bonus of +8 in Intelligence and +8 Perception and -8 Charisma (except on Arclune island) and -8 Strength.<br>
 
 #### The dwarves
 
