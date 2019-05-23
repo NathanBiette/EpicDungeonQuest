@@ -141,11 +141,11 @@ As a guideline, skills are usually:
 ### At level 1 :
 At the creation of your character you have a certain amount of skill points to spend on skills.
 
-Total amount of points = 5 + max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0]
+Total amount of points = 5 + 2*(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])
 
 ### Each time you level-up:
 
-Amount of skill point for each level-up = ( max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0] ) / 4 
+Amount of skill point for each level-up = [ 5 + 2*(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])] / 5
 
 (The minimum amount of skill points earned for a level-up is at least 1)
 
