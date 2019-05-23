@@ -26,12 +26,12 @@ the high-elves of the Empire,<br>
 the night elves of the Dark isle region. <br>
 
 Elves have a bonus of +8 in Dexterity and +4 in Magic but have a malus of -8 in Strength and Constitution.<br>
-If a xxxxxxx uses wind magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a xxxxxxx uses earth magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a xxxxxxx uses fire magic, they have a bonus of +12 instead of +4 in Magic.<br>
-If a xxxxxxx uses water magic, they have a bonus of +12 instead of +4 in Magic.<br>
+If a Elio uses wind magic, they have a bonus of +12 instead of +4 in Magic.<br>
+If a Sylve uses earth magic, they have a bonus of +12 instead of +4 in Magic.<br>
+If a Elfire uses fire magic, they have a bonus of +12 instead of +4 in Magic.<br>
+If a Hydrile or Ondin uses water magic, they have a bonus of +12 instead of +4 in Magic.<br>
 If a high-elf uses creation magic, they have a bonus of +12 instead of +4 in Magic.<br>
-Night elves have a bonus of +8 in Perception.<br>
+Nightelves have a bonus of +8 in Perception.<br>
 
 #### The dwarves
 
@@ -112,24 +112,17 @@ Multiply by 4 : 11*4 = 44.
 
 Each time you succeed in using one of your abilities, add one to your ability counter. When the counter reaches the corresponding threshold, level-up your ability and reset the ability counter.
 
-Ability level (current ability score)
-Counter Threshold 
-1 - 20 
-1 
-21 – 40 
-2 
-41 - 60 
-3 
-61 – 70 
-6 
-71 - 80 
-9 
-81 - 90 
-12 
-91 - 100 
-20 
-101 + 
-30 
+
+| Ability level (current ability score) | Counter Threshold  |
+| ------------------------------------- | ------------------ |
+| 1  - 20                               | 1                  |
+| 21 - 40                               | 2                  |
+| 41 - 60                               | 3                  |  
+| 61 - 70                               | 6                  |
+| 81 - 90                               | 12                 |
+| 91 - 10                               | 20                 |
+| 100+                                  | 30                 |
+
 
 ## III. Skills
 
