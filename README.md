@@ -21,9 +21,13 @@ Each role-playing adventure starts with the creation of a character. Epic Dungeo
 #### The elves
 
 There are 6 types of elves:<br>
-4 elemental elves tribes: wind, earth, fire and water elves,<br>
-the high-elves of the Empire,<br>
-the night elves of Arclune island. <br>
+- 4 elemental elves tribes: 
+   * Elios : wind
+   * Sylve : earth
+   * Hydrile (river) and Ondin (sea) : water
+   * Yfrite : fire<br>
+- the High-Elves and of the Empire<br>
+- the Nightelves of Arclune island<br>
 
 | Race            | +8 abilities modifier                        | -8 ability modifier                    |
 | --------------- | -------------------------------------------- | -------------------------------------- |
@@ -91,7 +95,7 @@ Player : I attack my opponent with my sword
 DM : Alrigth, strength test with 20 penalty
 Player’s strength is 64. 64 – 20 = 44, player must roll below 44 to succeed.
 
-If you roll 95 or above, this is an epic fail, with consequences for you and your teammates.
+If you roll 96 or above, this is an epic fail, with consequences for you and your teammates.
 If you roll 5 or below, this is an epic success and you succeed in the most difficult actions.
 
 ### How to determine my ability scores?
