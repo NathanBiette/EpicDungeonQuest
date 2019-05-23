@@ -35,8 +35,7 @@ Nightelves have a bonus of +8 in Perception.<br>
 
 #### The dwarves
 
-Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic
-
+Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic.
 Dwarves have a bonus of +8 in Constitution and in Intelligence but have a malus of -16 in Magic.
 
 #### The orcs
@@ -112,7 +111,6 @@ Multiply by 4 : 11*4 = 44.
 
 Each time you succeed in using one of your abilities, add one to your ability counter. When the counter reaches the corresponding threshold, level-up your ability and reset the ability counter.
 
-
 | Ability level (current ability score) | Counter Threshold  |
 | ------------------------------------- | ------------------ |
 | 1  - 20                               | 1                  |
@@ -120,7 +118,7 @@ Each time you succeed in using one of your abilities, add one to your ability co
 | 41 - 60                               | 3                  |  
 | 61 - 70                               | 6                  |
 | 81 - 90                               | 12                 |
-| 91 - 10                               | 20                 |
+| 91 - 100                              | 20                 |
 | 100+                                  | 30                 |
 
 
