@@ -25,12 +25,14 @@ There are 6 types of elves:<br>
 the high-elves of the Empire,<br>
 the night elves of Arclune island. <br>
 
-If a Elio uses wind magic, they have a bonus of +8 in wind magic instead and +8 in Dexterity and -8 Strength and -8 Intelligence.<br>
-If a Sylve uses earth magic, they have a bonus of +8 in earth magic instead and +8 in Constitution and -8 Strength and -8 Intelligence.<br>
-If a Hydrile or Ondin uses water magic, they have a bonus of +8 in water magic and +8 in Perception and -8 Charisma and -8 Intelligence.<br>
-If a Yfrites uses fire magic, they have a bonus of +8 in fire magic and +8 in strength and -8 in Intelligence and -8 Perception<br>
-If a High-Elf/Elfire uses creation magic, they have a bonus of +8 in creation magic and +8 in Intelligence and -8 Perception and -8 in Dexterity<br>
-Nightelves have a bonus of +8 in Intelligence and +8 Perception and -8 Charisma (except on Arclune island) and -8 Strength.<br>
+| Race            | +8 abilities modifier                        | -8 ability modifier                    |
+| --------------- | -------------------------------------------- | -------------------------------------- |
+| Elio            | Wind magic, Dexterity                        | Strength, Intelligence                 |
+| Sylve           | Earth magic, Constitution                    | Desterity, Intelligence                |
+| Hydrile, Ondin  | Water magic, Perception                      | Charisma, Intelligence                 |
+| Yfrite          | Fire magic, Strength                         | Strength, Perception                   |
+| High-Elf/Elfire | Creation magic, Intelligence                 | Strength, Perception                   |
+| Nightelves      | Light magic, Intelligence/Perception (+4/+4) | Strength, Charisma (except on Arclune) |
 
 #### The dwarves
 
@@ -114,7 +116,7 @@ Each time you succeed in using one of your abilities, add one to your ability co
 | ------------------------------------- | ------------------ |
 | 1  - 20                               | 1                  |
 | 21 - 40                               | 2                  |
-| 41 - 60                               | 3                  |  
+| 41 - 60                               | 3                  |
 | 61 - 70                               | 6                  |
 | 81 - 90                               | 12                 |
 | 91 - 100                              | 20                 |
