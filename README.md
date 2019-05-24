@@ -188,17 +188,18 @@ There are 3 different types of magics:
 * Creation
 The creation magic enables its user to create items by converting MPs to matter. A creation mage usually knows how to wield only one type of material (iron, wood, stone, wax, textile …).<br>
 The bigger the creation, the more mana the mage needs to spend.<br>
-There are two phases in creation: the design check (intelligence check) and the casting stage (magic check).<br>
+To cast a creation magic spell, the player need to do a magic check.<br>
 Once the item is created, it becomes independent from the caster, as a classic, typical, regular item.<br>
 
 * Elemental magic
 There are 4 types of elemental magic: water, earth, wind and fire.<br>
 The elemental mages use elemental energies flowing in all things to twist and control elements.<br>
 The more the element is present in an area, the more there is of this kind of energy, the easier it is to call to this element.<br>
-Elemental mages cast magic in two stages also (intelligence check then magic check) but don’t lose control over the element after using it (contrary to creation mage).<br>
+To cast an elemental magic spell, th eplayer needs to do a magic check.<br>
 
 * Divine Magic
-Priests and believers can call to their gods to receive their benediction and subsequently get buffs or buff allies or debuff opponents. (Only magic check is required most of the time)<br>
+Priests and believers can call to their gods to receive their benediction and subsequently get buffs or buff allies or debuff opponents.<br>
+To cast a divine spell, the player need to do a magic check (as its character calls upon its faith).<br>
 
 You get Health and Mana back by resting. MPs come back more quickly than HPs.
 
