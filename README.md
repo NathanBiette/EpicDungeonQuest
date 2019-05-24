@@ -34,14 +34,19 @@ There are 6 types of elves:
 | Elio            | Wind magic, Dexterity                        | Strength, Intelligence                 |
 | Sylve           | Earth magic, Constitution                    | Desterity, Intelligence                |
 | Hydrile, Ondin  | Water magic, Perception                      | Charisma, Intelligence                 |
-| Yfrite          | Fire magic, Strength                         | Strength, Perception                   |
+| Yfrite          | Fire magic, Strength                         | Perception, Intelligence               |
 | High-Elf/Elfire | Creation magic, Intelligence                 | Strength, Perception                   |
 | Nightelves      | Light magic, Intelligence/Perception (+4/+4) | Strength, Charisma (except on Arclune) |
 
 #### The dwarves
 
 Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic.<br>
-Dwarves have a bonus of +8 in Constitution and in Intelligence but have a malus of -16 in Magic.
+Dwarves have a bonus of +8 in Constitution and in Intelligence but have a malus of -8 in Magic and Charisma.<br>
+They cannot cast elemental or creation magic. Therefore dwarves have a choice to make: <br>
+- to abandon their magic ability altogether and use it as a bonus in skill points
+- to choose divine magic but give up on their skill points bonus
+
+If a dwarf character renounces its magic, then it receives a bonus of *(magic / 4)* skill points at level 1 and at each level up and the maximum amount of skill points per skill is *(character level + 5)*
 
 #### The orcs
 
@@ -103,7 +108,7 @@ If you roll 5 or below, this is an epic success and you succeed in the most diff
 Ability scores are rolled at the creation of your character. To determine your ability score, roll 4d6 , keep the 3 best scores, add them and multiply by 4. Repeat the operation 7 times and then choose which score to use for which ability.
 
 
-7 times ( [sum of  3 best scores out of 4d6] * 4 )
+7 times ( [sum of  3 best scores out of 4d6] x 4 )
 
 Example:<br>
  4d6 give you 4, 5, 1, 2. <br>
@@ -138,20 +143,21 @@ As a guideline, skills are usually:
 - any skill from Donjon and Dragon (lockpicking, acrobatics, tracking ...)
 - a specific craft (weapons smithing, poison making, potion brewing ...)
 
-Only one skill bonus can be used on a check at any time.
+Only one skill bonus can be used on a check at any time.<br>
+The maximum level of a skill is : *character level + 3*<br>
 
 ### At level 1 :
 At the creation of your character you have a certain amount of skill points to spend on skills.
 
-Total amount of points = 5 + 2x(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])
+Total amount of points = (intelligence + perception - 70) / 2
 
 ### Each time you level-up:
 
-Amount of skill point for each level-up = [ 5 + 2x(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])] / 5
+Amount of skill point for each level-up = (intelligence + perception - 70) / 7
 
 (The minimum amount of skill points earned for a level-up is at least 1)
 
-Points can be spent freely on existing skills or new skills which the player decides to add to the existing skills.
+Points can be spent freely on existing skills or new skills which the player decides to add to the existing skills, up to a maximum of *character level + 3*.
 
 Examples of skills :
 - Longsword mastery 
@@ -192,7 +198,7 @@ Elemental mages cast magic in two stages also (intelligence check then magic che
 * Divine Magic
 Priests and believers can call to their gods to receive their benediction and subsequently get buffs or buff allies or debuff opponents. (Only magic check is required most of the time)<br>
 
-You get Health and Mana back by resting. PMs comes back more quickly than HPs.
+You get Health and Mana back by resting. MPs come back more quickly than HPs.
 
 ### At level 1 :
 
@@ -209,8 +215,5 @@ At level-up, the player should get at least 1 more HP and 1 more MP.
 
 ## V. Level-ups
  
-Your general level rises depending on the number of successful ability checks performed. <br>
-The player counts the total amount of successful ability checks. Then if this counter reaches the threshold of 3 + level of the player, then the player level-up and reset the counter. <br>
-
-Ex: player level-up from level 1 to level 2 after 4 successful ability checks, from level 2 to level 3 after 5 successful ability checks.<br>
-Each time the player level-up, he gets HPs, MPs and skill points.<br>
+Levels up are decided by the DM. It enables a cohesive rise in levels for every member of the party while taking into account the increase of ability scores.<br>
+Each time the player level-up, he gets additionnal HPs, MPs and skill points.<br>
