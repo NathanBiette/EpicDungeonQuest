@@ -32,7 +32,7 @@ There are 6 types of elves:
 | Race            | +8 abilities modifier                        | -8 ability modifier                    |
 | --------------- | -------------------------------------------- | -------------------------------------- |
 | Elio            | Wind magic, Dexterity                        | Strength, Intelligence                 |
-| Sylve           | Earth magic, Constitution                    | Desterity, Intelligence                |
+| Sylve           | Earth magic, Constitution                    | Dexterity, Intelligence                |
 | Hydrile, Ondin  | Water magic, Perception                      | Charisma, Intelligence                 |
 | Yfrite          | Fire magic, Strength                         | Perception, Intelligence               |
 | High-Elf/Elfire | Creation magic, Intelligence                 | Strength, Perception                   |
@@ -46,7 +46,7 @@ They cannot cast elemental or creation magic. Therefore dwarves have a choice to
 - to abandon their magic ability altogether and use it as a bonus in skill points
 - to choose divine magic but give up on their skill points bonus
 
-If a dwarf character renounces its magic, then it receives a bonus of *(magic / 4)* skill points at level 1 and at each level up and the maximum amount of skill points per skill is *(character level + 5)*
+If a dwarf character renounces its magic, then it receives a bonus of *(magic / 4)* skill points at level 1 and at each level up and the maximum amount of skill points per skill is *character level + 5* instead of *character level + 3*.
 
 #### The orcs
 
@@ -151,6 +151,8 @@ At the creation of your character you have a certain amount of skill points to s
 
 Total amount of points = (intelligence + perception - 70) / 2
 
+(The minimum amount of skill points earned at level 1 is at least 5)
+
 ### Each time you level-up:
 
 Amount of skill point for each level-up = (intelligence + perception - 70) / 7
@@ -202,13 +204,13 @@ You get Health and Mana back by resting. MPs come back more quickly than HPs.
 
 ### At level 1 :
 
-HPs = 10 + max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ] <br>
-MPs = [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] * 2 <br>
+HPs = 8 + (constitution + strength - 70) / 4 <br>
+MPs = (constitution + magie - 60) / 4 <br>
 
 ### At next level-ups:
 
-HPs = PV + [ max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ]  ] / 4 <br>
-MPs = PM + [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] / 4 <br>
+HPs = PV + (constitution + strength - 70) / 7 <br>
+MPs = PM + (constitution + magie - 60) / 7 <br>
 
 At level-up, the player should get at least 1 more HP and 1 more MP.
 
