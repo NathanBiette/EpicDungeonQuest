@@ -2,7 +2,7 @@
 ## The pen and paper role playing game
 
 ### Initial note: 
-All fractions are rounded down to the direct inferior integer (for example: round (4.75) = 4)
+All fractions are rounded down to the direct inferior integer (for example: round (4.75) = 4)<br>
 Levelling up doesn’t change your character’s stats retroactively (for example you don’t increase your total health just from levelling up your constitution).
 
 ## I. Character’s creation 
@@ -20,14 +20,14 @@ Each role-playing adventure starts with the creation of a character. Epic Dungeo
 
 #### The elves
 
-There are 6 types of elves:<br>
+There are 6 types of elves:
 - 4 elemental elves tribes: 
    * Elios : wind
    * Sylve : earth
    * Hydrile (river) and Ondin (sea) : water
-   * Yfrite : fire<br>
-- the High-Elves and of the Empire<br>
-- the Nightelves of Arclune island<br>
+   * Yfrite : fire
+- the High-Elves and of the Empire
+- the Nightelves of Arclune island
 
 | Race            | +8 abilities modifier                        | -8 ability modifier                    |
 | --------------- | -------------------------------------------- | -------------------------------------- |
@@ -40,7 +40,7 @@ There are 6 types of elves:<br>
 
 #### The dwarves
 
-Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic.
+Dwarves can’t wield magic but there are great engineers and skilled craftsmen which can achieve wonders without a drop of magic.<br>
 Dwarves have a bonus of +8 in Constitution and in Intelligence but have a malus of -16 in Magic.
 
 #### The orcs
@@ -61,25 +61,25 @@ Well, there are no classes in Epic Dungeon Quest, you create your own class by p
 
 There are seven abilities in Epic Dungeon Quest:
 
-* Strength
+* Strength<br>
 Your ability to use brute force to fight or perform any physical effort
 
-* Dexterity
+* Dexterity<br>
 Your ability to use your body with subtlety and precision (dodge, stealth, aim with a bow…)
 
-* Constitution
+* Constitution<br>
 Your ability to physically resist physical harm, endure pain, perform long efforts (resist to poison, resist passing out…)
 
-* Perception
+* Perception<br>
 The sharpness of your senses (visual, auditive, … )
 
-* Intelligence
+* Intelligence<br>
 Your ability to be creative or logical, to remember things, to focus and shape magic
 
-* Charisma
+* Charisma<br>
 Your ability to inspire people, to make them trust you, your aura, your ability to persuade
 
-* Magic
+* Magic<br>
 Your ability to invoke magic or resist its influence
 
 
@@ -87,16 +87,16 @@ Almost every action in the game will be perform using one of your ability. Abili
 
 ### How to use an ability?
 
-The Dungeon Master determines which ability to use and if there are any penalty on your roll. To use an ability, roll 1d100. If you score below your ability score, your action succeeds.
+The Dungeon Master determines which ability to use and if there are any penalty on your roll. To use an ability, roll 1d100. If you score below your ability score, your action succeeds.<br>
 If there is a penalty on the roll, subtract the penalty to your ability score
 
-Example:
-Player : I attack my opponent with my sword
-DM : Alrigth, strength test with 20 penalty
-Player’s strength is 64. 64 – 20 = 44, player must roll below 44 to succeed.
+Example:<br>
+Player : I attack my opponent with my sword<br>
+DM : Alrigth, strength test with 20 penalty<br>
+Player’s strength is 64. 64 – 20 = 44, player must roll below 44 to succeed.<br>
 
-If you roll 96 or above, this is an epic fail, with consequences for you and your teammates.
-If you roll 5 or below, this is an epic success and you succeed in the most difficult actions.
+If you roll 96 or above, this is an epic fail, with consequences for you and your teammates.<br>
+If you roll 5 or below, this is an epic success and you succeed in the most difficult actions.<br>
 
 ### How to determine my ability scores?
 
@@ -105,12 +105,12 @@ Ability scores are rolled at the creation of your character. To determine your a
 
 7 times ( [sum of  3 best scores out of 4d6] * 4 )
 
-Example:
- 4d6 give you 4, 5, 1, 2. 
-Keep the 3 best: 4, 5, and 2. 
-Add them: 4+5+2= 11. 
-Multiply by 4 : 11*4 = 44. 
-44 is your ability score !
+Example:<br>
+ 4d6 give you 4, 5, 1, 2. <br>
+Keep the 3 best: 4, 5, and 2. <br>
+Add them: 4+5+2= 11. <br>
+Multiply by 4 : 11x4 = 44. <br>
+44 is your ability score !<br>
 
 ### How to level-up my abilities?
 
@@ -129,8 +129,8 @@ Each time you succeed in using one of your abilities, add one to your ability co
 
 ## III. Skills
 
-Skills are special talents or knowledge or gifts your character has. It gives him bonuses when performing specific actions. You can pick up any skills you want with the DM’s agreement.
-The bonus provided by the skill is the level of the skill. 
+Skills are special talents or knowledge or gifts your character has. It gives him bonuses when performing specific actions. You can pick up any skills you want with the DM’s agreement.<br>
+The bonus provided by the skill is the level of the skill. <br>
 
 As a guideline, skills are usually:
 - a specific spell (ice spike, create a wood shield, cast a minor illusion)
@@ -138,33 +138,37 @@ As a guideline, skills are usually:
 - any skill from Donjon and Dragon (lockpicking, acrobatics, tracking ...)
 - a specific craft (weapons smithing, poison making, potion brewing ...)
 
+Only one skill bonus can be used on a check at any time.
+
 ### At level 1 :
 At the creation of your character you have a certain amount of skill points to spend on skills.
 
-Total amount of points = 5 + 2*(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])
+Total amount of points = 5 + 2x(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])
 
 ### Each time you level-up:
 
-Amount of skill point for each level-up = [ 5 + 2*(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])] / 5
+Amount of skill point for each level-up = [ 5 + 2x(max[ (int / 4) – 10 , 0] + max[ (per / 4) – 10 , 0])] / 5
 
 (The minimum amount of skill points earned for a level-up is at least 1)
 
 Points can be spent freely on existing skills or new skills which the player decides to add to the existing skills.
 
 Examples of skills :
--Longsword mastery 
--Acrobatics 
--Elemental fire magic
--Sailing 
--Horse riding 
--Forge 
-…
+- Longsword mastery 
+- Acrobatics 
+- Fireball spell
+- Sailing 
+- Horse riding 
+- Weapon smithing
+- Lockpicking
+- Lute playing<br>
+...
 
 ## IV. Health points and Mana points
 
 ### Health
 
-If your character gets hurt, he loses health points. If the character’s health reaches 0, he passes out and keep losing health point until he manages a constitution check to stabilise his state. An ally can help an injured player and stabilise him to 0 HP.
+If your character gets hurt, he loses health points. If the character’s health reaches 0, he passes out and keep losing health point until he manages a constitution check to stabilise his state. An ally can help an injured player and stabilise him to 0 HP.<br>
 If a character’s health reaches -10HP the character dies.
 
 ### Mana 
@@ -174,39 +178,39 @@ PMs are Mana Points. Each time a player casts magic, he uses MPs.
 There are 3 different types of magics:
 
 * Creation
-The creation magic enables its user to create items by converting MPs to matter. A creation mage usually knows how to wield only one type of material (iron, wood, stone, wax, textile …).
-The bigger the creation, the more mana the mage needs to spend.
-There are two phases in creation: the design check (intelligence check) and the casting stage (magic check)
-Once the item is created, it becomes independent from the caster, as a classic, typical, regular item.
+The creation magic enables its user to create items by converting MPs to matter. A creation mage usually knows how to wield only one type of material (iron, wood, stone, wax, textile …).<br>
+The bigger the creation, the more mana the mage needs to spend.<br>
+There are two phases in creation: the design check (intelligence check) and the casting stage (magic check).<br>
+Once the item is created, it becomes independent from the caster, as a classic, typical, regular item.<br>
 
 * Elemental magic
-There are 4 types of elemental magic: water, earth, wind and fire
-The elemental mages use elemental energies flowing in all things to twist and control elements
-The more the element is present in an area, the more there is of this kind of energy, the easier it is to call to this element.
-Elemental mages cast magic in two stages also (intelligence check then magic check) but don’t lose control over the element after using it (contrary to creation mage).
+There are 4 types of elemental magic: water, earth, wind and fire.<br>
+The elemental mages use elemental energies flowing in all things to twist and control elements.<br>
+The more the element is present in an area, the more there is of this kind of energy, the easier it is to call to this element.<br>
+Elemental mages cast magic in two stages also (intelligence check then magic check) but don’t lose control over the element after using it (contrary to creation mage).<br>
 
 * Divine Magic
-Priests and believers can call to their gods to receive their benediction and subsequently get buffs or buff allies or debuff opponents. (Only magic check is required most of the time)
+Priests and believers can call to their gods to receive their benediction and subsequently get buffs or buff allies or debuff opponents. (Only magic check is required most of the time)<br>
 
 You get Health and Mana back by resting. PMs comes back more quickly than HPs.
 
 ### At level 1 :
 
-HPs = 10 + max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ] 
-MPs = [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] * 2 
+HPs = 10 + max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ] <br>
+MPs = [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] * 2 <br>
 
 ### At next level-ups:
 
-HPs = PV + [ max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ]  ] / 4 
-MPs = PM + [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] / 4 
+HPs = PV + [ max[ con/4 -10 , 0 ] + max[ str/4 -10 , 0 ]  ] / 4 <br>
+MPs = PM + [ max[ con/4 -10 , 0 ] + max[ mag/4 -10 , 0 ] ] / 4 <br>
 
 At level-up, the player should get at least 1 more HP and 1 more MP.
 
 
 ## V. Level-ups
  
-Your general level rises depending on the number of successful ability checks performed 
-The player counts the total amount of successful ability checks. Then if this counter reaches the threshold of 3 + level of the player, then the player level-up and reset the counter. 
+Your general level rises depending on the number of successful ability checks performed. <br>
+The player counts the total amount of successful ability checks. Then if this counter reaches the threshold of 3 + level of the player, then the player level-up and reset the counter. <br>
 
-Ex: player level-up from level 1 to level 2 after 4 successful ability checks, from level 2 to level 3 after 5 successful ability checks.
-Each time the player level-up, he gets HPs, MPs and skill points.
+Ex: player level-up from level 1 to level 2 after 4 successful ability checks, from level 2 to level 3 after 5 successful ability checks.<br>
+Each time the player level-up, he gets HPs, MPs and skill points.<br>
